@@ -1,3 +1,5 @@
+This is all vibecoded
+
 # Subtitles-for-Plex
 Adds subtitles to your movies or series easily.
 I didnt find any web apps that did this for plex easily so i made one myself that i could use and now sharing it if anyone else needs something like this.
@@ -9,6 +11,8 @@ An easy-to-use, independent tool designed for your Plex media library to effortl
 **Local Imports:** Seamlessly import your own subtitle files or map existing subtitle directories.
 **OpenSubtitles Integration:** Automatically pull high-quality subtitles directly from OpenSubtitles.
 **Plex-Compatible:** Organizes and names files perfectly so Plex recognizes them instantly.
+
+<img width="1607" height="1025" alt="subforplex1" src="https://github.com/user-attachments/assets/d1dd72a0-02f4-4131-ad86-c54a7ac27956" />
 
 
 **⚠️ Disclaimer**
